@@ -18,3 +18,12 @@ Laura 21 tahun
 >>> x = "Jati diri"
 >>> print(x)
 Jati diri # hasil dari print(x)
+
+# membuat variabel dengan tipe data standar yang sering digunakan
+>>> x = "Hello World" # ini adalah data str, merupakan kalimat bisa berupa huruf atau angka, gunakan tanda petik satu ('), atau petik dua (") sebagai penanda jenis data str 
+>>> x = 10 # ini adalah tipe data int, merupakan bilangan bulat
+>>> x = 20.5 # ini adalah tipe data float, merupakan bilangan decimal atau bilangan yang memiliki koma
+>>> x = ["Pagi", "Siang", "Malam"] # ini adalah tipe data list yang isinya dapat diubah-ubah
+>>> x = ("Pagi", "Siang", "Malam") # ini adalag tipe data tuple 
+>>> x = {"brand": "Ford", "model": "Mustang", "year": 1964} # ini adalah tipe data dictionary
+>>> x = bool(5) # ini adalah tipe data boolean
