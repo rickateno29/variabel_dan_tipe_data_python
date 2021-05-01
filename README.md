@@ -24,6 +24,6 @@ Jati diri # hasil dari print(x)
 >>> x = 10 # ini adalah tipe data int, merupakan bilangan bulat
 >>> x = 20.5 # ini adalah tipe data float, merupakan bilangan decimal atau bilangan yang memiliki koma
 >>> x = ["Pagi", "Siang", "Malam"] # ini adalah tipe data list yang isinya dapat diubah-ubah
->>> x = ("Pagi", "Siang", "Malam") # ini adalag tipe data tuple 
+>>> x = ("Pagi", "Siang", "Malam") # ini adalag tipe data tuple, berbeda dengan list, isi di dalam tuple tidak dapat diubah
 >>> x = {"brand": "Ford", "model": "Mustang", "year": 1964} # ini adalah tipe data dictionary
 >>> x = bool(5) # ini adalah tipe data boolean
