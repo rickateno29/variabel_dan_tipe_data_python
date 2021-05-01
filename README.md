@@ -12,3 +12,9 @@ nama usia
 >>> tahun = "tahun"
 >>> print(nama, usia, tahun) 
 Laura 21 tahun
+
+# variabel dapat mengubah variabel lain dengan nama yang sama
+>>> x = 5
+>>> x = "Jati diri"
+>>> print(x)
+Jati diri # hasil dari print(x)
