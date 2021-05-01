@@ -6,6 +6,7 @@
 # untuk mencetak variabel kita dapat menggunakan "print"
 >>> print(x,y)
 nama usia
+
 >>> nama = "Laura"
 >>> usia = 21
 >>> tahun = "tahun"
