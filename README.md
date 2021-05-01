@@ -27,3 +27,4 @@ Jati diri # hasil dari print(x)
 >>> x = ("Pagi", "Siang", "Malam") # ini adalag tipe data tuple, berbeda dengan list, isi di dalam tuple tidak dapat diubah
 >>> x = {"brand": "Ford", "model": "Mustang", "year": 1964} # ini adalah tipe data dictionary
 >>> x = bool(5) # ini adalah tipe data boolean
+>>> x = {"bunga", "buah", "sayur"} #ini adalah tipe data set, tipe data ini bisa digunakan untuk operasi hitung matematika
